@@ -3,7 +3,7 @@ from mg import get_map_cell
 import time
 
 
-bot = telebot.TeleBot('5814478095:AAGv6z5COK3saDLkXJODoWme2WtCWV7wdjc')
+bot = telebot.TeleBot('your token')
 cols, rows = 8, 8
 
 keyboard = telebot.types.InlineKeyboardMarkup()
